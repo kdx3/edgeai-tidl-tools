@@ -118,9 +118,10 @@ The below table covers the supported operations with this repository on X86_PC a
 - We have also validated under docker container in PC. Use [Dockerfile](./Dockerfile) for the list of dependencies installed on top of ubuntu 22.04 base line.
   - We recommend docker based X86_PC setup to avoid running into any dependencies related issues
 
-* python3
-* pip3
-* cmake
+* python3;
+* pip3;
+* cmake;
+* wget.
 
   
 ### Setup on X86_PC
