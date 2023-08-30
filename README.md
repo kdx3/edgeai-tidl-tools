@@ -124,6 +124,8 @@ The below table covers the supported operations with this repository on X86_PC a
 * cmake; (installed cmake with pip remove either)
 * pkg-config;
 * libglib2.0-dev;
+* graphviz;
+* libgraphviz-dev;
 * wget.
 
   
