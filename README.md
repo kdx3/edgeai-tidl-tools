@@ -123,6 +123,7 @@ The below table covers the supported operations with this repository on X86_PC a
 * pip3;
 * cmake; (installed cmake with pip remove either)
 * pkg-config;
+* libglib2.0-dev;
 * wget.
 
   
