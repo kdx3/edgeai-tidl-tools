@@ -121,7 +121,8 @@ The below table covers the supported operations with this repository on X86_PC a
 * protobuf-compiler;
 * python3;
 * pip3;
-* cmake;
+* cmake; (installed cmake with pip remove either)
+* pkg-config;
 * wget.
 
   
