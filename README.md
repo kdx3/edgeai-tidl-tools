@@ -127,6 +127,7 @@ The below table covers the supported operations with this repository on X86_PC a
 * graphviz;
 * libgraphviz-dev;
 * git;
+* vim;
 * wget.
 
   
